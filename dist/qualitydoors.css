@@ -1,0 +1,30 @@
+li { line-height: 24px;}
+.hr-menu {margin: 5px 0}
+.orcamento-destaque {background: #d2d2d2; padding:7px; border-radius:10px}
+.orcamento-destaque input{width:93%;}
+.orcamento-destaque textarea{width:93%; min-height: 100px !important;}
+.span2m { width: 236px; }
+.tel {width: 47%;height: 25px;float: right;margin-top: 20px;padding-right: 25px;text-align: right;}
+.tel h1 {margin: 0;padding: 0;color: #E67E22;font-size: 18px;line-height: initial;font-weight: bold;}
+.tel p {line-height: initial;color: #fff;font-size: 16px; font-weight:normal;}
+.linha {border-bottom:solid 1px #E67E22;}
+.bairros li {float:left; width:290px;}
+
+p.follow {
+color: #eee;
+width: 50%;
+margin: 0 auto 40px;
+line-height: 30px;
+
+@media (max-width: 979px) {
+.tel {width: 50%;height: 25px;float: right;margin-top: 75px;padding-right: 45px;text-align: right;}
+}
+
+
+@media only screen and (max-width: 675px) { 
+	.tel {width: 100%; height: 25px;float: right;padding-right: 34px;text-align: right;margin-top: 12px;}
+}
+
+@media screen and (max-width: 31.5em) {
+.rev-title2.bold {font-size: 15px!important;margin-top: -10px;}
+}

@@ -1,0 +1,11 @@
+Disallow: /css
+Disallow: /enviarForm
+Disallow: /js
+Disallow: envia-contato.php
+Disallow: enviado.php
+Disallow: envia-orcamento.php
+Disallow: orcamento.php
+
+Sitemap: http://qualitydoors.com.br/sitemap.xml
+Sitemap: http://portaoautomatico.qualitydoors.com.br/portaoautomatico-sitemap.xml
+Sitemap: http://portoesautomaticos.qualitydoors.com.br/portoesautomaticos.sitemap.xml

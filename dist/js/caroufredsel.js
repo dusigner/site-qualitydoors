@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){a("#slider_home").carouFredSel({width:"100%",height:"auto",responsive:!0,circular:!0,infinite:!1,auto:!1,items:{width:231,visible:{min:1,max:3}},swipe:{onTouch:!0,onMouse:!0},scroll:{items:3},prev:{button:"#sl-prev",key:"left"},next:{button:"#sl-next",key:"right"}})});

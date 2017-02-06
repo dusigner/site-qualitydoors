@@ -1,0 +1,1 @@
+<?php include("header.php"); ?>  <?php include( $_GET['cont'] ); ?>  <?php include("footer.php"); ?>
